@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 import matplotlib.pyplot as plt
 import math as mt
 import numpy as np
@@ -24,58 +18,3 @@ plt.title('Monte carlo : finding pi')
 plt.scatter(x_inside ,y_inside,s=1,color='#b33653' )
 plt.savefig('D:\\1\\MonteCarlo finding pi.png', dpi=500)
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
